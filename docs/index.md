@@ -6,8 +6,7 @@ title: Emily Fairbanks's Resume
 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/emily-fairbanks/">LinkedIn</a>
 | <a href="https://github.com/E-Fairbanks/E-Fairbanks-Resume">GitHub</a>
 </div>
@@ -27,7 +26,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Internships
 
-`January 2028 - June 2028`
+`January 2021 - June 2021`
 __Pacific Northwest National Lab__, Richland, WA
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
@@ -36,14 +35,14 @@ __Pacific Northwest National Lab__, Richland, WA
 
 ### Data Science Lead
 
-`April 2027 - June 2027`
+`April 2020 - June 2020`
 __Westmark Credit Union__, Consultant
 
 - Developed a predicted model to support Westmark in custumer conversion from dealer loans.
 - Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
 - Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
 
-`September 2027 - April 2028`
+`September 2020 - April 2020`
 __Good2Go__, Consultant
 
 - Built product ordering and supply predictive algorithms for chips and beverages categories
@@ -52,14 +51,14 @@ __Good2Go__, Consultant
 
 ### Data Science Consulting Team
 
-`January 2027 - April 2027`
+`January 2020 - April 2020`
 __Imagine Learning__
 
 - Build web scraping tool to find and format school district technology data.
 - Used R and the Rvest package to parse and format web data.
 - Saved 30 hours a month with the automated scripts.
 
-`April 2027 - July 2027`
+`April 2020 - July 2020`
 __Pinnacle Management Group__, 
 
 - Proof of concept development of dashboards using client's corporate data.
@@ -69,11 +68,11 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
+`2018-2020`
 __Math Tutor__, LDSBC
 
 
-`2023-2025`
+`2016-2018`
 __Service Missionary__, South Africa
 
 
