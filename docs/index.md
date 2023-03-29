@@ -36,7 +36,7 @@ __Las Plumas High School__, Rexburg, ID
 `July 2021 - September 2021`
 __Fairbanks Paving Co.__, Oroville, CA
 
-- Reorganized and fixed Quickbooks
+- Restructured the company's Quickbooks
 - Print checks and input invoices
 - Delivered cookies
 
